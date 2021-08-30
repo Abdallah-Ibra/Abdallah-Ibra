@@ -3,7 +3,7 @@
 
 ### *I specialize in Desktop Applications Development for different operating systems and Web-Backend Development like Django and Flask.My work has strengthened customer engagement and increased accessibility and I would love to add value to your business and ensure its fast growth! ###
 
-## ↗️***Some Of My Skills are***↗️
+## ↗️***My Skills ***↗️
 #### ✅*Desktop Apps ['PyQt','TKinter']*
 #### ✅*Web Scraping ['BeautifulSoup','Selenium','Scrapy','requests-html']*
 #### ✅*Web Back-End ['Django','Flask']*
