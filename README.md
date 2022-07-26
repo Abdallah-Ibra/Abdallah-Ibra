@@ -5,8 +5,8 @@
 
 ## ↗️***My Skills ***↗️
 #### ✅*Desktop Apps ['PyQt','TKinter']*
-#### ✅*Web Scraping ['BeautifulSoup','Selenium','Scrapy','requests-html']*
-#### ✅*Web Back-End ['Django','Flask']*
+#### ✅*Web Scraping ['BeautifulSoup','Selenium','Scrapy','requests-html','Playwright']*
+#### ✅*Web Back-End ['Django','Flask','PHP Laravel']*
 
 ## ***✍ Finally:***
  > ### *Be Sure That What Makes You Different, Makes You Special❕😎*
