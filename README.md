@@ -26,7 +26,7 @@
                         |||             || ||      || ||
                         |__>            || ||      || ||
 
-     [*] Hit Any key To Continue..😃😆
+     input('[*] Hit Any key To Continue..😃')
      
 ## **🌐My Social Media Links:🌐**
 ### ![image](https://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-facebook-button-blue-icon.png) Facebook: ***www.facebook.com/abd.ibra.01***
