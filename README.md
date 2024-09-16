@@ -28,7 +28,3 @@
 
      input('[*] Hit Any key To Continue..😃')
      
-## **🌐My Social Media Links:🌐**
-### ![image](https://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-facebook-button-blue-icon.png)  ***www.facebook.com/abd.ibra.01***
-### ![image](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Instagram-icon.png)  ***www.instagram.com/dev.abdallah.it***
-### ![image](https://user-images.githubusercontent.com/75906593/115944204-0a173780-a4bd-11eb-8a93-bcf25c4a2337.png)  ***www.twitter.com/AbdTabasi***
